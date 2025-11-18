@@ -1,11 +1,11 @@
 
-# For Tanvi 💕
+# For Srishti 💕
 
-A special website created for Tanvi.
+A special website created for Srishti.
 
 ## Live Demo
 
-🔗 **[Visit Site](https://for-tanu.vercel.app/)**
+🔗 **[Visit Site](https://for-srishti.vercel.app/)**
 
 ## Features
 
